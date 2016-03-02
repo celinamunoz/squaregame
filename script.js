@@ -5,6 +5,7 @@ secondColor = "";
 
 $(document).ready(function() {
   
+  // COmment
   // STEP ONE //
   // attach a click event listener to all elements with the class picture-box
   // we need to execute the function turnSquare every time a square is clicked
